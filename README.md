@@ -1,5 +1,6 @@
 # 포켓립(POCKETLIB)
 경기도경제과학진흥원 이공계연수사업인 JAVA와 R기반 빅데이터 양성과정에서 진행한 웹 프로젝트입니다.
+접속: http://itproject.ezenac.co.kr/pocketlib
 
 # 온라인 서재 pocketLib 소개
 이용자의 관심 책 또는 읽은 책을 기반으로 맞춤 추천을 해주어 보다 
